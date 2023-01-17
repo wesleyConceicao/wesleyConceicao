@@ -2,4 +2,4 @@
 - 👀 I’m interested in Data science and machine learning/ IA
 - 🌱 I’m currently learning on programming cloud, BI and Big Data 
 - 💞️ I’m looking to collaborate on new tecnologies and currently i doing IC in Fiocruz - Rio de Janeiro 
-- 📫 How to reach me : Wesley.cconcei@gamil.com
+- 📫 How to reach me : Wesley.cconcei@gmail.com

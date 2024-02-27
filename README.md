@@ -14,6 +14,7 @@ Sou apaixonado por **Análise de Dados**, **Machine Learning**, **Inteligência 
 --- 
 
 <center>
+<table>
     <tr>
         <td>
           <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyConceicao&hide=html&layout=compact&theme=dracula" />
@@ -22,12 +23,14 @@ Sou apaixonado por **Análise de Dados**, **Machine Learning**, **Inteligência 
             <img width="100%" src="https://github-readme-stats.vercel.app/api?username=wesleyConceicao&theme=dracula" />
         </td>
     </tr>
+</table>
 </center>
 
 
 ## My Skills:
 
 <center>
+<div>
       <tr> 
       <td> 
           <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> 
@@ -57,8 +60,11 @@ Sou apaixonado por **Análise de Dados**, **Machine Learning**, **Inteligência 
           <img src="https://img.shields.io/badge/Power%20BI%20-%20?style=for-the-badge&logo=power%20bi&color=yellow" /> 
         </td>
       </tr>
+</div>
 </center>
-<center>
+
+<center> 
+<div>
     <tr> 
     <td> 
         <img src="https://img.shields.io/badge/Streamlit%20-%20?style=for-the-badge&logo=streamlit&logoColor=white&color=%23FF4B4B" /> 
@@ -82,6 +88,7 @@ Sou apaixonado por **Análise de Dados**, **Machine Learning**, **Inteligência 
           <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /> 
       </td>
     </tr>
+</div>
 </center>
 
 ## Contacts:

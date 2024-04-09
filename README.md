@@ -4,7 +4,7 @@
 
 Sou graduando em Ciências matemáticas e da terra pela UFRJ e atuo como Cientista de Dados, pousso experiência como **analista de dados Jr** e também fiz parte de uma iniciação científica na **FioCruz** com o objetivo de prever e classificar bactérias patogênicas usando machine Learning.
 
-Atualmente faço parte da equipe de competição de ciencia de dados da UFRJ, a [UFRJAnlytica](https://analytica.ufrj.br/) que começou como um grupo de estudo para solução de problemas de ciência de dados e machine learning, com o intuito de participar de competições na área; além disso desenvolvemos projetos voltados para soluções em ciência de dados.
+Atualmente faço parte da equipe de competição de ciencia de dados da UFRJ, a [UFRJAnalytica](https://analytica.ufrj.br/) que começou como um grupo de estudo para solução de problemas de ciência de dados e machine learning, com o intuito de participar de competições na área; além disso desenvolvemos projetos voltados para soluções em ciência de dados.
 
 Tenho experiência com consultas SQL e BigQuery, praticas com **MySQL** e PostgreSQL, criação de dashboards no **Power BI** e análise de dados, desenvolvimento de fluxos (ETL) com **Pyhton** e R e WebScraping.
 
